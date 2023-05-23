@@ -9,9 +9,14 @@ import {
   useColorScheme,
   View,
 } from 'react-native';
+import Header from './components/Header';
 
 const App = () => {
-  return <></>;
+  return (
+    <>
+      <Header />
+    </>
+  );
 };
 
 const styles = StyleSheet.create({});
