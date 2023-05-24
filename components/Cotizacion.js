@@ -33,11 +33,12 @@ const styles = StyleSheet.create({
   resultado: {
     backgroundColor: '#5E49E2',
     padding: 20,
-    marginTop: 20,
   },
   texto: {
     color: '#fff',
     fontFamily: 'Lato-Regular',
+    fontSize: 18,
+    marginBottom: 10,
   },
   precio: {
     fontSize: 38,
